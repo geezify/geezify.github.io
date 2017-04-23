@@ -1,1 +1,9 @@
-# This is cool
+---
+layout: default
+---
+
+## Welcome to another page
+
+_yay_
+
+[back](./)
