@@ -1,1 +1,4 @@
+title: Geezify (ግዕዝ) number project
+description: a collection of libraries to convert ASCII(arabic) numbers like '3456' to geez number '፴፬፻፶፮' and vise versa.
+show_downloads: false
 theme: jekyll-theme-cayman
